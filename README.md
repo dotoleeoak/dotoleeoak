@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+아직 배우는 중입니다! 잘 부탁드려요 🤗
+
 <!--
 **dotoleeoak/dotoleeoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
