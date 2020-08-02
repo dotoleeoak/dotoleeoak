@@ -1,6 +1,8 @@
 ### Hi there 👋
+아직 배우는 중입니다! 잘 부탁드려요 🤗  
 
-아직 배우는 중입니다! 잘 부탁드려요 🤗
+### Contact
+이메일로 연락주세요! 1dotolee@gmail.com
 
 <!--
 **dotoleeoak/dotoleeoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
